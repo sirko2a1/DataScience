@@ -24,6 +24,7 @@ ex7 = np.dot(ex7_1, ex7_2)
 
 ex8_1 = np.random.randint(1, 11, size=(3, 3))
 ex8 = np.linalg.inv(ex8_1)
+
 ex9_1 = np.random.randint(0, 2, size=(4, 4))
 ex9 = ex9_1.T
 
